@@ -26,7 +26,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass.set("sourcecode.App")
+    mainClass.set("sourcecode.GithubGeneratedSequential")
 }
 
 tasks.named<Test>("test") {
